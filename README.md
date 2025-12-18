@@ -1,2 +1,2 @@
 # FSM_FRTOS
-codigo que ejemplifica el patro de diseño ST - FSM
+codigo que ejemplifica el patron de diseño ST - FSM
